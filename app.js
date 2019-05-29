@@ -4,3 +4,4 @@ fs.readFile('./01.helloworld.js', 'utf8', (err, doc) => {
 	console.log(ccc);
 });
 jjjjjj
+hhhhh
